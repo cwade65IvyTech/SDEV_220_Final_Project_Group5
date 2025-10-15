@@ -9,11 +9,11 @@
 ### Technology Stack:
 
 ### Team Roles:
-#### - Calvin Ryan Alexander Wade was the project leader who led conversations and focused on the structure and organization of the program.
-#### - Jason P Winowiecki was the developer who focused on the structure and organization of the program.
-#### - Sahara Smith created the documentation, provided feedback on the structure and organization of the program, and initiated collaboration between team members.
-#### - Kimberly Quintero created the documentation for the program and offered help throughout the project.
-#### - Feda Rahman Bigzad did the testing, debugging, desk checking, and revising of the program to ensure that the code ran smoothly.
+ - Calvin Ryan Alexander Wade was the project leader who led conversations and focused on the structure and organization of the program.
+ - Jason P Winowiecki was the developer who focused on the structure and organization of the program.
+ - Sahara Smith created the documentation, provided feedback on the structure and organization of the program, and initiated collaboration between team members.
+ - Kimberly Quintero created the documentation for the program and offered help throughout the project.
+ - Feda Rahman Bigzad did the testing, debugging, desk checking, and revising of the program to ensure that the code ran smoothly.
 
 
 ### Screenshots or Demo:
