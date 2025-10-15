@@ -1,7 +1,13 @@
 # Varners Greenhouse & Nursery Inventory System
 ## This is the repository for the Varners Greenhouse & Nursery inventory system during the Fall Wholesale Program. This program allows customers to purchase plants and other agricultural products. It displays the products as well as their prices. Then, the customer can input the quantity for each product to calculate their overall price, depending on sales tax and pickup/delivery.
 ### SetUp + Installation Steps:
-
+1. Clone the github Repository:
+   ```bash
+   git clone https://github.com/your-name/SDEV_220_Final_Project_Group5.git
+2. Enter the Project Folder:
+   ```bash
+   cd your-folder-name
+3. 
 ### How to Use/Test:
 
 ### Feature Summary:
