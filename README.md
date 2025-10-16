@@ -57,7 +57,8 @@ This application is a desktop-based wholesale order form designed for Varner’s
 The more complex sections of the code are carefully documented online, especially those that handle dynamic behaviors such as the use of ‘trace_add’ for live updating totals. The ‘MoneyVar’ class abstracts currency formatting while keeping the underlying float value accessible for calculations. Within ‘build_table’, nested functions are used to safely bind real time UI updates to entry fields that involve closures and compatibility handling for both ‘trace_add’ (Python 3.6+) and legacy ‘trace’. The ‘recompute_totals()’ function is another key section that performs conditional logic for tax calculations, delivery fees, and total updates. Additionally, layout logic ensures that the product list resizes with the window and remains scrollable, which is achieved by dynamically binding the canvas size to its frame contents. These areas are commented to clarify purpose and structure, aiding readability and future maintenance.
 
 ### requirements.txt
-<em>info here<em>
+
+[requirements.txt](https://github.com/user-attachments/files/22940531/requirements.txt)
 
 ### Class Diagram Overview:
 <img width="721" height="303" alt="Group 5 Working UML Class Diagram" src="https://github.com/user-attachments/assets/d9b15b75-fe18-420c-b842-cfe83e682da4" />
