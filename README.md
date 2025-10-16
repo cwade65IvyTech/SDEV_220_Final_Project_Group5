@@ -9,11 +9,28 @@
    cd your-folder-name
 3. 
 ### How to Use/Test:
-
+How to Use/Test:
+Make sure Python 3 it’s installed on your system. (Tip: It may be useful to verify the version is 3.6)
+Save the script as varners_order_form.py (Or the name of your choosing).
+Open a terminal or open a prompt.
+You can run the script by using; python varners_order_form.py (Or the name of your choosing). 
+A window should open. 
 ### Feature Summary:
-
+Summary:
+This application is a desktop-based wholesale order form designed for Varner’s Greenhouse & Nursery’s 2025 Fall season. It offers dynamic data entry with real-time calculation of totals, including support for Michigan sales tax and optional delivery fees. The interference is responsive and scrollable, allowing for easy navigation of product sections. Input fields are color coded for clarity, and the form includes built-in validation to ensure numeric input. Users can export orders as CSV files or printable text summaries, making it easy to process or archive orders. The application is designed with compatibility in mind, supporting both legacy and modern versions of python ‘trace’ methods for live updates.
 ### Technology Stack:
-
+Technology Stack:
+Programming Language: Python 3
+GUI Framework: Tkinter 
+Core library used:
+Tkinter, tkinter.ttk
+Datetime
+Csv
+collections.OrderedDict
+Sys, os
+File Outputs:
+.csv
+.txt
 ### Team Roles:
  - Calvin Ryan Alexander Wade was the project leader who led conversations and focused on the structure and organization of the program.
  - Jason P Winowiecki was the developer who focused on the structure and organization of the program.
