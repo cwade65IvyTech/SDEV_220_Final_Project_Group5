@@ -8,7 +8,11 @@
 2. Enter the Project Folder:
    ```bash
    cd your-folder-name
-3. Run Program
+3. Install requirements.txt
+   ```bash
+   pip -r install requirements.txt
+
+4. Run Program
    ``` bash
    python file_name.py
 <b>Creating a Virtual Environment is optional for SetUp/Installation<b>   
