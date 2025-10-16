@@ -10,7 +10,7 @@
    cd your-folder-name
 3. Install requirements.txt
    ```bash
-   pip -r install requirements.txt
+   pip install -r requirements.txt
 
 4. Run Program
    ``` bash
