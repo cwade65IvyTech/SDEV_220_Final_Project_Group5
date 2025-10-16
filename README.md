@@ -1,5 +1,6 @@
 # Varners Greenhouse & Nursery Inventory System
 ## This is the repository for the Varners Greenhouse & Nursery inventory system during the Fall Wholesale Program. This program allows customers to purchase plants and other agricultural products. It displays the products as well as their prices. Then, the customer can input the quantity for each product to calculate their overall price, depending on sales tax and pickup/delivery.
+
 ### SetUp + Installation Steps:
 1. Clone the github Repository:
    ```bash
@@ -11,14 +12,18 @@
    ``` bash
    python file_name.py
 <b>Creating a Virtual Environment is optional for SetUp/Installation<b>   
+
 ### How to Use/Test:
 - Make sure Python 3 it’s installed on your system. (Tip: It may be useful to verify the version is 3.6)
 - Save the script as varners_order_form.py (Or the name of your choosing).
 - Open a terminal or open a prompt.
 - You can run the script by using; python varners_order_form.py (Or the name of your choosing). 
 - A window should open. 
+
 ### Summary:
 This application is a desktop-based wholesale order form designed for Varner’s Greenhouse & Nursery’s 2025 Fall season. It offers dynamic data entry with real-time calculation of totals, including support for Michigan sales tax and optional delivery fees. The interference is responsive and scrollable, allowing for easy navigation of product sections. Input fields are color coded for clarity, and the form includes built-in validation to ensure numeric input. Users can export orders as CSV files or printable text summaries, making it easy to process or archive orders. The application is designed with compatibility in mind, supporting both legacy and modern versions of python ‘trace’ methods for live updates.
+
+
 ### Technology Stack:
 - Programming Language: Python 3
 - GUI Framework: Tkinter 
@@ -31,6 +36,8 @@ This application is a desktop-based wholesale order form designed for Varner’s
 ### File Outputs:
 - .csv
 - .txt
+
+  
 ### Team Roles:
  - Calvin Ryan Alexander Wade was the project leader who led conversations and focused on the structure and organization of the program.
  - Jason P Winowiecki was the developer who focused on the structure and organization of the program.
@@ -47,4 +54,5 @@ The more complex sections of the code are carefully documented online, especiall
 ### requirements.txt
 <em>info here<em>
 ### Class Diagram Overview:
-<em>info here<em>
+<img width="721" height="303" alt="Group 5 Working UML Class Diagram" src="https://github.com/user-attachments/assets/d9b15b75-fe18-420c-b842-cfe83e682da4" />
+
